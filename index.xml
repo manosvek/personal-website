@@ -9,13 +9,22 @@
     <item>
       <title>About me</title>
       <link>https://manosvek.github.io/personal-website/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://manosvek.github.io/personal-website/about/</guid>
       <description>Hi, I am Emmanouil (people call me Manos)! I am an Electrical and Computer Engineering student living in Athens Greece, focusing on the Software Engineering side.
 My interests expand all the way from neural networks to traditional computer networks, operating systems, web development and systems design.
 While I&amp;rsquo;m AFK I&amp;rsquo;m either reading a book, playing ukulele, chess or Rocket League 🚀⚽
 Currently I am working on my diploma thesis studying how governments around the world responded to Covid-19 forecasts and trying to find out how they could make measures taken more effective.</description>
+    </item>
+    
+    <item>
+      <title>My CV</title>
+      <link>https://manosvek.github.io/personal-website/cv/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://manosvek.github.io/personal-website/cv/</guid>
+      <description>You can find the latest (I hope) version of my CV here.</description>
     </item>
     
     <item>
